@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+```bash
+git clone https://github.com/Gremony-stack/first-threejs-learning.git
+cd first three-js-learning
+npm i
+```
 
 First, run the development server:
 
