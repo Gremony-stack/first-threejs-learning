@@ -3,10 +3,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 ```bash
 git clone https://github.com/Gremony-stack/first-threejs-learning.git
+```
+```bash
 cd first three-js-learning
+```
+```bash
 npm i
 ```
-
 First, run the development server:
 
 ```bash
